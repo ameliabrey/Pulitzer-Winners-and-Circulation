@@ -2,7 +2,7 @@
 
 ### Background
 
-The accompanying Jupyter Notebook uses Nate Silver's dataset from the 2014 report, 'Pulitzer Prizes Don't Lure Readers.' Silver's methodology evaluates whether the number of Pulitzer prizes won by journalists from given newspapers is related to the change in circulation of these newspapers between 2004 and 2013. Silver finds a weak correlation supported only by the New York Times.
+The accompanying Jupyter Notebook links to Nate Silver's dataset from the 2014 report, 'Pulitzer Prizes Don't Lure Readers.' Silver's article evaluates whether the number of Pulitzer prizes won by journalists from given newspapers is related to the change in circulation of these newspapers between 2004 and 2013. The author finds a weak correlation supported only by the corresponding growth of the New York Times.
 
 ### Methodology
 
